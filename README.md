@@ -6,7 +6,7 @@ Funciona mediante protocolo serial.
 
 Los archivos de log que genera dentro de la memoria SD se graban con la fecha y hora tomados del RTC.
 
-Al encender el dispositivo se iniciará el registro de los datos serie recibidos en 115000 bps (o la velocidad definida). 
+Al encender el dispositivo se iniciará el registro de los datos serie recibidos en 115200 bps (o la velocidad definida). 
 
 Al enviar Ctrl + z tres veces abandona el registro y entra en el modo de comando. 
 
