@@ -16,7 +16,7 @@ https://proyectos-arduino-internet.googlecode.com/svn/wiki/OpenLog1.JPG
 https://proyectos-arduino-internet.googlecode.com/svn/wiki/OpenLog2.JPG
 
 https://proyectos-arduino-internet.googlecode.com/svn/wiki/OpenLog_esquema.jpg
-----
+
 
 ===Links de referencia:===
 
