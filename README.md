@@ -17,4 +17,4 @@ Enviar ? en modo comando para el menu de opciones.
 
 ===Links de referencia:===
 
-[http://www.sparkfun.com/products/9530 Basado en proyecto de SparkFun OpenLog]
+http://www.sparkfun.com/products/9530 Basado en proyecto de SparkFun OpenLog
