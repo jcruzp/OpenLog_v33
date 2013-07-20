@@ -11,6 +11,9 @@ Al enviar Ctrl + z tres veces abandona el registro y entra en el modo de comando
 
 Enviar ? en modo comando para el menu de opciones.
 
+![Imagen 1](https://proyectos-arduino-internet.googlecode.com/svn/wiki/OpenLog1.JPG)
+https://proyectos-arduino-internet.googlecode.com/svn/wiki/OpenLog1.JPG
+
 https://proyectos-arduino-internet.googlecode.com/svn/wiki/OpenLog1.JPG
 
 https://proyectos-arduino-internet.googlecode.com/svn/wiki/OpenLog2.JPG
